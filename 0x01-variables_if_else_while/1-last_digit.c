@@ -3,6 +3,11 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+/**
+ * main - to compute last digit
+ *
+ * Return: last figit(one)
+ */
 int main(void)
 
 {
