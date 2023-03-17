@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- *main: The purpose of main's return value is to return an exit status to the operating system.
- *Return: this function returns it
+ *main - The purpose of main's return value is to return an exit status.
+ *
+ *Return: this function returns it to OS.
  */
 int main(void)
 {
