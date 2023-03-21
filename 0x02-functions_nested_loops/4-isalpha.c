@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha: function to know if its an alpha
+ * _isalpha - function to know if its an alpha
  *
  * @c: input to be evaluated
  *
