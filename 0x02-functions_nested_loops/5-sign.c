@@ -4,6 +4,7 @@
  *
  * Return: what the +/_ of valeu 1 or -1
  *
+ * @n: variable to be evaluated
  */
 int print_sign(int n)
 
